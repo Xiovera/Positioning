@@ -1,1 +1,28 @@
+div{
+	width: 200px; 
+	height: 200px;
+	position: absolute;
+}
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.caja1{
+	background-color: #ee3e64;
+}
+.caja2{
+	background-color: #44accf;
+	right: 0;
+}
+.caja3{
+	background-color: #b7d84b;
+	bottom: 0;
+	left: 0;
+	}
+.caja4{
+	background-color: yellow;
+	bottom: 0;
+	right: 0;
+}
+
 /* Pon tu código css aqui */
